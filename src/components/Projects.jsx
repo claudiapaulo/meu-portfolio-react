@@ -7,13 +7,13 @@ function Projects() {
       titulo: 'Meu Portfólio',
       desc: 'Design elegante com suporte a tema escuro.',
       imagem: imgProjeto,
-      url: '#'
+      url: 'https://github.com/claudiapaulo/meu-portfolio'
     },
     {
       titulo: 'Meu Portfólio React',
       desc: 'Estiloso e Moderno.',
       imagem: imgProjeto,
-      url: '#'
+      url: 'https://github.com/claudiapaulo/meu-portfolio-react'
     }
   ];
 
